@@ -1,6 +1,8 @@
 docker-mage
 ===========
 
+**Deprecated** See https://github.com/mage/mage-docker instead.
+
 MAGE Docker image, based on official node versions.
 
 Usage
